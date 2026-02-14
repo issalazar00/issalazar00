@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @issalazar00
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning CSS, JS, PHP, Vue, Laravel...
+- 🌱 I’m currently learning CSS, JS, PHP, Vue, Laravel, Angular, React, SpringBoot
 - 💞️ I’m looking to collaborate on web develomment
 - 📫 How to reach me ...
 
